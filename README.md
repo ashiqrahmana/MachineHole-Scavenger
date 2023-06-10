@@ -5,8 +5,6 @@ MachineHole-Scavenger is a cutting-edge mechatronic system designed to efficient
 ## Motivation
 The primary goal of this project is to eliminate the need for manual scavengers to enter hazardous manholes for waste cleaning purposes. By implementing a robotic solution, the project aims to ensure the safety and well-being of workers while improving the overall efficiency of the cleaning process.
 
-## Working
-
 ## Robotics
 The project incorporates a range of actuators and sensors, including encoders, moisture sensors, and gas sensors. These components enable the system to monitor both the environment and the robot itself, providing a high level of flexibility in manipulating the surroundings. Through the use of kinematics and dynamic modeling, users can control the complex mechatronic system with ease, utilizing a simple button and joystick configuration.
 
